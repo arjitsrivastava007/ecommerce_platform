@@ -19,8 +19,9 @@ This project is a production-ready RESTful API for an e-commerce platform built 
 - Python 3.9+
 
 ### Running the Application
-1. Unzip ecommerce_platform:
+1. Clone repository:
    ```bash
+   git clone https://github.com/arjitsrivastava007/ecommerce_platform.git
    cd ecommerce_platform
    ```
 2. Build and run the application using Docker Compose:
